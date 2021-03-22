@@ -5,7 +5,8 @@
 
 ## Write message.
 Attach local standard input, output, and error streams to a running container and type your messages.\
-    `docker attach instant_message_deliver_app_1`
+    `docker attach instant_message_deliver_app_1` \
+and press enter once(docker attach doesn't show hello message)
 
 ## Get messages.
 Attach local standard input, output, and error streams to a running container and wait for messages.\
