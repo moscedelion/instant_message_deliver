@@ -1,7 +1,7 @@
 # instant_message_deliver
 
 ## Up containers:
-`docker-compose up`
+`docker-compose up -d`
 
 ## Write message.
 Attach local standard input, output, and error streams to a running container and type your messages.
